@@ -85,7 +85,7 @@ var work = {
     {
       "employer":"Luxottica Group",
       "title":"Sr Auditor, IT Internal Audit",
-      "date": "April, 2015 –present",
+      "date": "April, 2015 – Present",
       "location": "Cincinnati, OH, USA",
       "description": "Led North America IT SOX and IT Internal Audit."
     },
