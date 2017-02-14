@@ -20,7 +20,7 @@ h6 {
 
 .education-entry,
 .work-entry,
-.project-entry {
+.certification-entry {
   padding: 0 5%;
 }
 
@@ -114,6 +114,11 @@ a {
 
 .white-text {
   font-weight: bold;
+  color: #fff;
+}
+
+.white-normal {
+  font-weight: normal;
   color: #fff;
 }
 
